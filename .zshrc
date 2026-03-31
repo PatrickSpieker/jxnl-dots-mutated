@@ -85,6 +85,9 @@ alias cp='cp -iv'                           # Preferred 'cp' implementation
 
 alias mv='mv -iv'                           # Preferred 'mv' implementation
 alias mkdir='mkdir -pv'                     # Preferred 'mkdir' implementation
+
+
+# Interesting as well - probably worth doing all of these? 
 alias cd..='cd ../'                         # Go back 1 directory level (for fast typers)
 alias ..='cd ../'                           # Go back 1 directory level
 alias ...='cd ../../'                       # Go back 2 directory levels
